@@ -1,2 +1,0 @@
-# drawing
-Canvas Drawing Application
